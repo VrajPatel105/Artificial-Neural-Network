@@ -62,4 +62,5 @@ Topics Covered:
       - Batch Normalization
         - Internal Covariate Shift
         - How BN works?
-        - 
+        - Pros and Cons of BN
+  - Optimizers
