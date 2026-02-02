@@ -1,5 +1,4 @@
 # Artificial-Neural-Network
-Covering ANN including the math
 Topics Covered:
   - Deep Learning introduction
   - Machine learning VS Deep learning
@@ -29,3 +28,38 @@ Topics Covered:
           - Batch GD
           - Mini-Batch GD
       - Vanishing Gradient Problem
+  - # Improving a Neural Network
+        1. Fine Tuning Hyperparametes
+        2. By solving :
+            - Vanishing / Exploding Gradient
+            - Not enough Data
+            - Slow training
+            - Overfitting
+    
+    - Fine tuning Hyperparameters
+    - Main problem with overfitting and possible solutions
+      - Dropout Layer
+      - Regularization
+      - Activation Functions
+          - Sigmoid
+          - Tanh
+          - ReLU
+          - Different Variants of ReLU
+            - Leaky ReLU
+            - Parametric ReLU
+            - ELU
+            - SELU
+      - Dying ReLU Problem
+    - Weight Initialization Techniques
+      - What not to do
+        - Zero Initialization
+        - Non zero constant values
+        - Extremely small values (for ex. 0.0001)
+        - Large Values (for ex. 0-1)
+      - What to do
+        - Xavier / Glorant Initialization
+        - He Initialization
+      - Batch Normalization
+        - Internal Covariate Shift
+        - How BN works?
+        - 
