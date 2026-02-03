@@ -64,3 +64,8 @@ Topics Covered:
         - How BN works?
         - Pros and Cons of BN
   - Optimizers
+      - Momentum
+      - AdaGrad
+      - Nesterov Accelerated Gradient
+      - RMS Prop
+      - Adam
