@@ -69,3 +69,4 @@ Topics Covered:
       - Nesterov Accelerated Gradient
       - RMS Prop
       - Adam
+- Coding Projects
